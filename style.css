@@ -20,7 +20,18 @@
 /* @dev removing marging of body . */
 body {
 	margin: 0;
+	justify-content: center;
 }
+
+.box {
+	background-color: lavenderblush;
+	padding: 50px;
+	position: relative;
+	margin: 100px;
+	text-align: center;
+	font-size: 2em;
+}
+
 
 /*---------------------------------------------------------------*/
 
