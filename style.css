@@ -27,7 +27,7 @@ body {
 	background-color: lavenderblush;
 	padding: 50px;
 	position: relative;
-	margin: 100px;
+	margin: 100px, 100px, 0, 100px;
 	text-align: center;
 	font-size: 2em;
 }
