@@ -24,10 +24,11 @@ body {
 }
 
 .box {
+	width: 100vw;
+	height: 100vh;
 	background-color: lavenderblush;
-	padding: 50px;
-	position: relative;
 	text-align: center;
+	padding: 50px;
 	font-size: 2em;
 }
 
@@ -43,8 +44,7 @@ body {
  * justify / align items into center.
  */
 .board {
-	width: 100vw;
-	height: 100vh;
+	margin: 100px;
 	display: grid;
 	justify-content: center;
 	align-content: center;
