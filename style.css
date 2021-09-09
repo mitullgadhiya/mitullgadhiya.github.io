@@ -26,9 +26,9 @@ body {
 .box {
 	width: 100vw;
 	height: 100vh;
+	padding: 50px;
 	background-color: lavenderblush;
 	text-align: center;
-	padding: 50px;
 	font-size: 2em;
 }
 
